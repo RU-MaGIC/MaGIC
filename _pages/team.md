@@ -1,8 +1,7 @@
 ---
 title: "The Team"
 permalink: /team/
-feature_row:
-  id: "row1"
+row1:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Super customizable"
