@@ -19,8 +19,8 @@ All standard services have a pre-set pricing as below. For what is included in e
 |  | ChIP-seq Differential Peak Analysis | Sample | $50 |
 |  | ATAC-seq Differential Peak Analysis | Sample | $75 |
 | Amplicons |  |  |  |
-|  | Unique Amplicon Counting | $5 |
+|  | Unique Amplicon Counting | Sample | $5 |
 |  | 16s Metagenomics | Sample | $15 |
 |  | VDJ Diversity | Sample | $15 |
 | Custom Services |  |  |  |
-|  | Hourly | $150 |
+|  | Custom Services | Hourly | $150 |
