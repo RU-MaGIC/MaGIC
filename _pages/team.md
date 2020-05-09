@@ -2,7 +2,7 @@
 title: "The Team"
 permalink: /team/
 feature_row_row1:
-  - image_path: /assets/images/headshot.jpg
+  - image_path: /assets/images/Headshot.jpg
     alt: "Alex Lemenze"
     title: "Alexander Lemenze"
     excerpt: "Assistant professor and Director of MaGIC"
@@ -10,5 +10,7 @@ feature_row_row1:
     btn_class: "btn--primary"
     btn_label: "Personal Page"     
 ---
+
+The staff of the Molecular and Genomics Informatics Core are the ones who make the magic happen. Right now its sadly N=1, but hopefully this list will grow! 
 
 {% include feature_row id="feature_row_row1" %}
