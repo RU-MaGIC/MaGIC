@@ -6,7 +6,7 @@ permalink: /about/
 ## Mission
 The mission of the Molecular and Genomics Informatics Core is to support cutting edge researchers by providing expertise in high-throughput computational analyses. This is to be provided by utilizing up-to-date pipelines for expediting standard workflows, and implementing custom bioinformatics analyses to accomodate the myriad of solutions for academic research. MaGIC will also emphasizes training opportunities by providing remote bioinformatics learning tools, project support and assistance on request, and regular courses. 
 
-[Please click here to download our boilerplate letter of support.](/assets/downloads/boilerplate_letter_of_support.docx)
+[Please click here to download our boilerplate letter of support.](/MaGIC/assets/downloads/boilerplate_letter_of_support.docx)
 This can be modified to fit your project. We do kindly request that you notify us when using this boilerplate so we can balance workloads appropriately for your project. 
 
 ## History
