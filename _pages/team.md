@@ -13,4 +13,4 @@ feature_row_row1:
 
 The staff of the Molecular and Genomics Informatics Core are the ones who make the magic happen. Right now its sadly N=1, but hopefully this list will grow! 
 
-{% include feature_row id="feature_row_row1" %}
+{% include feature_row id="feature_row_row1" type="left" %}
