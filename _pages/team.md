@@ -1,7 +1,7 @@
 ---
 title: "The Team"
 permalink: /team/
-row1:
+feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Super customizable"
@@ -29,4 +29,4 @@ row1:
 col-mds for each person- circle of picture and little note
 links to their github and pages etc
 
-{% include feature_row id="row1" %}
+{% include feature_row %}
