@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Services"
-     url: /services/
-   - title: "Pricing"
-     url: /pricing/
-   - title: "Team"
-     url: /team/
+    url: /services/
+  - title: "Pricing"
+    url: /pricing/
+  - title: "Team"
+    url: /team/
