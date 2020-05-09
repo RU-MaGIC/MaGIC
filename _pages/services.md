@@ -71,7 +71,7 @@ feature_row_amp:
 ---
 
 ## Standard Service Offerings
-The Molecular and Genomics Informatics Core offers a variety of standard services. Each of these standard services has a defined start and end point. 
+The Molecular and Genomics Informatics Core offers a variety of standard services. Each of these standard services has a defined start and end point. As certain custom requests are developed they may be offered as standard services. 
 
 ### Whole Genome Sequencing Analysis Services
 {% include feature_row id="feature_row_wgs" %}
@@ -95,3 +95,4 @@ MaGIC can additionally offer custom services on a case-by-case basis. This entai
 - Additional custom plotting beyond standard offering
 - Personal pipeline development
 - Web page development
+- Protein analysis services
