@@ -1,7 +1,6 @@
 ---
 title: "Available Services"
 permalink: /services/
-classes: wide
 ---
 
 # Services
