@@ -5,7 +5,8 @@ permalink: /pricing/
 
 ## Non-standard Pricing
 As an alternative to standard pricing, the Core actively accepts collaborative efforts. Due to the iterative nature of bioinformatics analysis, this is a generally preferred method. To discuss this further, please [contact the Core](/MaGIC/contact/) to review your project and discuss options. Common examples include percent effort on grants or salary subsistence through Center contributions. 
-* Currently CII direct members have Center salary subsistence *
+*Current groups with Center salary subsistence:*
+ - *CII*
 
 ## Standard Pricing List
 All standard services have a pre-set pricing as below. For what is included in each standard package please see the individual service pages or contact the Core directly. 
