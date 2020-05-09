@@ -1,12 +1,6 @@
 ---
 title: "The Team"
 permalink: /team/
----
-
-# The team
-col-mds for each person- circle of picture and little note
-links to their github and pages etc
-
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -29,3 +23,10 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+---
+
+# The team
+col-mds for each person- circle of picture and little note
+links to their github and pages etc
+
+{% include feature_row %}
