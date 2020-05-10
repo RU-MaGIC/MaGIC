@@ -2,7 +2,7 @@
 title: "Available Services"
 permalink: /services/
 feature_row_wgs:
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/variant.png
     alt: "Variant Analysis"
     title: "Variant Analysis"
     excerpt: "To identify genomics variants (SNP/Indels) comparatively. Usually involves comparing to reference, but can also be used for cross-sample comparisons. "
