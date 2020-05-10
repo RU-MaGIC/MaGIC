@@ -9,7 +9,7 @@ feature_row_wgs:
     url: "/service_details/#variant-analysis"
     btn_class: "btn--primary"
     btn_label: "Explore more" 
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/denovo.jpg
     alt: "De Novo Assembly"
     title: "De Novo Assembly"
     excerpt: "When you dont have a reference genome and you need to build one, we can perform de novo assembly. This can be an iterative process requiring multiple data types to achieve completion. "
