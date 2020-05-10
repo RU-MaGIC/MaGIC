@@ -17,21 +17,21 @@ feature_row_wgs:
     btn_class: "btn--primary"
     btn_label: "Explore more" 
 feature_row_rna:
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/heatmap.png
     alt: "Differential Gene Expression"
     title: "Differential Gene Expression"
     excerpt: "To identify the differentially expressed genes across different conditions. "
     url: "/service_details/#differential-gene-expression"
     btn_class: "btn--primary"
     btn_label: "Explore more" 
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/pathway.png
     alt: "Pathway Analysis"
     title: "Pathway Analysis"
     excerpt: "Beyond just the differential gene expression, we can explore the pathways or gene ontologies that are available to garner a more wholistic view of what is perturbed in your conditions. "
     url: "/service_details/#pathway-analysis"
     btn_class: "btn--primary"
     btn_label: "Explore more"
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/umap.jpg
     alt: "Single Cell RNA-seq"
     title: "Single Cell RNA-seq"
     excerpt: "Single cell RNA-seq analysis for 10X Genomics based samples "
@@ -39,7 +39,7 @@ feature_row_rna:
     btn_class: "btn--primary"
     btn_label: "Explore more"
 feature_row_epi:
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/peaks.png
     alt: "Differential Peak Expression"
     title: "Differential Peak Expression"
     excerpt: "To identify the differentially expressed peaks across different conditions. Usually for ChIP-seq or ATAC-seq"
@@ -47,21 +47,21 @@ feature_row_epi:
     btn_class: "btn--primary"
     btn_label: "Explore more" 
 feature_row_amp:
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/pcr.png
     alt: "Amplicon Analysis"
     title: "Standard Amplicon Analysis"
     excerpt: "To count the number of amplicons across samples. "
     url: "/service_details/#unique-amplicon-counting"
     btn_class: "btn--primary"
     btn_label: "Explore more" 
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/meta.png
     alt: "16s Metagenomics"
     title: "16s Metagenomics"
     excerpt: "Exploring the microbial diversity of environmental or organismal samples.  "
     url: "/service_details/#16s-metagenomics"
     btn_class: "btn--primary"
     btn_label: "Explore more"
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/vdj.jpg
     alt: "VDJ"
     title: "VDJ Diversity"
     excerpt: "Diversity analysis of TCR or BCR repetoire expression. "
