@@ -73,6 +73,8 @@ feature_row_amp:
 ## Standard Service Offerings
 The Molecular and Genomics Informatics Core offers a variety of standard services. Each of these standard services has a defined start and end point. As certain custom requests are developed they may be offered as standard services. 
 
+All services include any intermediary data files available upon request, as well as publication data deposition support (GEO/SRA). 
+
 ### Whole Genome Sequencing Analysis Services
 {% include feature_row id="feature_row_wgs" %}
 
