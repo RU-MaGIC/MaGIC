@@ -14,13 +14,13 @@ All standard services have a pre-set pricing as below. For what is included in e
 | Service Group | Service Item | Unit Size | Unit Cost | 
 |-------|--------|---------|----------|
 | Whole Genome |  |  |  |
-|  | Variant Analysis (Large Eukaryote) | Sample | $80 |
-|  | Variant Analysis (Small Eukaryote/Prokayote) | Sample | $40 |
+|  | Variant Analysis (Large Eukaryote) | Sample | $100 |
+|  | Variant Analysis (Small Eukaryote/Prokayote) | Sample | $50 |
 |  | De Novo Assembly (Large Eukaryote) | Sample | $100 |
 |  | De Novo Assembly (Small Eukaryote/Prokayote) | Sample | $50 |
 | RNA-Seq |  |  |  |
-|  | Differential Gene Expression | Sample | $50 |
-|  | Pathway Analysis (if available) | Sample | $50 |
+|  | Differential Gene Expression | Sample | $75 |
+|  | Pathway Analysis (if available) | Sample | $100 |
 | Epigenetics |  |  |  |
 |  | ChIP-seq Differential Peak Analysis | Sample | $50 |
 |  | ATAC-seq Differential Peak Analysis | Sample | $75 |
