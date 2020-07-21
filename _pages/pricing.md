@@ -21,6 +21,10 @@ All standard services have a pre-set pricing as below. For what is included in e
 | RNA-Seq |  |  |  |
 |  | Differential Gene Expression | Sample | $75 |
 |  | Pathway Analysis (if available) | Sample | $100 |
+| Single cell RNA-Seq |  |  |  |
+|  | Cellranger/Seurat processing workflow | Sample | $200 |
+|  | Cellranger/Seurat processing workflow with CITE-seq | Sample | $250 |
+|  | Cellranger/Seurat processing workflow with Hashtags | Sample | $250 |
 | Epigenetics |  |  |  |
 |  | ChIP-seq Differential Peak Analysis | Sample | $50 |
 |  | ATAC-seq Differential Peak Analysis | Sample | $75 |
