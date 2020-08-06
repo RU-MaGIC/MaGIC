@@ -10,4 +10,4 @@ The mission of the Molecular and Genomics Informatics Core is to support cutting
 This can be modified to fit your project. We do kindly request that you notify us when using this boilerplate so we can balance workloads appropriately for your project. 
 
 ## History
-The Molecular and Genomics Informatics Core (MaGIC) was initiated at the end of 2019 to build into a full-service bioinformatics core facility at Rutgers RBHS Newark. This was begun with just one scientist, a workstation, and a few nodes on the Amarel HPC. TBD the rest of the story!
+The Molecular and Genomics Informatics Core (MaGIC) was initiated at the end of 2019 to build into a full-service bioinformatics core facility at Rutgers RBHS Newark (NJMS). This was begun with just one scientist, a workstation, and a few nodes on the Amarel HPC. TBD the rest of the story!
