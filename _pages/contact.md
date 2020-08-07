@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact the Bioinformatics Team at Rutgers MaGIC"
 permalink: /contact/
 ---
 

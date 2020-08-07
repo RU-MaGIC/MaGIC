@@ -1,5 +1,5 @@
 ---
-title: "Available Services"
+title: "Available Bioinformatics Services"
 permalink: /service_details/
 layout: single
 toc: true

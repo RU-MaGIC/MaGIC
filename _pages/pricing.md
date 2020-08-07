@@ -1,5 +1,5 @@
 ---
-title: "Pricing"
+title: "Bioinformatics services pricing"
 permalink: /pricing/
 ---
 
