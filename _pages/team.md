@@ -5,7 +5,7 @@ feature_row_row1:
   - image_path: /assets/images/Headshot.jpg
     alt: "Alex Lemenze"
     title: "Alexander Lemenze, PhD"
-    excerpt: "Assistant professor and Director of MaGIC"
+    excerpt: "Assistant Professor in [Rutgers Department of Pathology, Immunology, and Laboratory Medicine](http://njms.rutgers.edu/departments/pathology/index.cfm) and Director of MaGIC"
     url: "https://alemenze.github.io/"
     btn_class: "btn--primary"
     btn_label: "Personal Page"     
