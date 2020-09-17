@@ -6,3 +6,5 @@ main:
     url: /pricing/
   - title: "Team"
     url: /team/
+  - title: "Project Request"
+    url: /request/
