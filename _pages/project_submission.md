@@ -42,7 +42,7 @@ permalink: /request/
      <label for="wishlist">Wishlist</label> 
      <textarea rows="2" name="wishlist" id="wishlist" placeholder="If you have any particular wishlist items for the analysis, please list them here" required=""></textarea>
     <p>
-      All project requests will be reviewed within 1 business day. A member of MaGIC will contact you to confirm project request receipt and coordinate project details. 
+      All project requests will be reviewed within 1 business day. A member of MaGIC will contact you to confirm project request receipt, provide a quotation (if applicable), and coordinate project details. 
       </p>  
     <input type="hidden" name="_subject" id="email-subject" value="Survey Responses">
   </fieldset>

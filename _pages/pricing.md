@@ -6,7 +6,7 @@ permalink: /pricing/
 ## Non-standard Pricing
 As an alternative to standard pricing, the Core actively accepts collaborative efforts. Due to the iterative nature of bioinformatics analysis, this is a generally preferred method. To discuss this further, please [contact the Core](/MaGIC/contact/) to review your project and discuss options. Common examples include percent effort on grants or salary subsistence through Center contributions. 
 *Current groups with Center salary subsistence:*
- - *[CII](http://njms.rutgers.edu/research/CII/)]*
+ - *[CII](http://njms.rutgers.edu/research/CII/)*
 
 ## Standard Pricing List
 All standard services have a pre-set pricing as below for internal [Rutgers investigators](https://www.rutgers.edu/). For what is included in each standard package please see the individual service pages or contact the Core directly. Pricing has been determined based upon calculated average compute requirements for standard projects. 
