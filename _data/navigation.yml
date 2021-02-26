@@ -2,9 +2,7 @@
 main:
   - title: "Services"
     url: /services/
-  - title: "Pricing"
-    url: /pricing/
-  - title: "Team"
-    url: /team/
+  - title: "MaGIC Tools"
+    url: /tools/
   - title: "Project Request"
     url: /request/

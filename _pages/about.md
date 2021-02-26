@@ -15,3 +15,5 @@ This can be modified to fit your project. We do kindly request that you notify u
 The Molecular and Genomics Informatics Core (MaGIC) was initiated at the end of 2019 to build into a full-service bioinformatics core facility at [Rutgers RBHS Newark (NJMS)](http://njms.rutgers.edu/). This was begun with just one scientist, a workstation, and a few nodes on the [Amarel HPC](https://oarc.rutgers.edu/amarel/). The inception of MaGIC was performed with tight collaboration with [The Genomics Center](http://research.njms.rutgers.edu/genomics/) and the [Office of Advanced Research Computing](https://oarc.rutgers.edu/). 
 
 TBD the rest of the story!
+
+[The MaGIC Team](/team/)
