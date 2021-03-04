@@ -8,7 +8,7 @@ The MaGIC Core has developed and maintains several tools for investigator usage.
 ## Fun Interactive RNASeq Expression Tool (FIRE-tool)
 RNAseq is a mainstream analysis methodology spanning most biological disciplines. This tool is to accept the raw feature counts from the RNAseq pipeline and bring about full visualization capabilities. 
 
-[FIRE-tool link](https://magic-firetool-gokj6o3xoq-uk.a.run.app)
+[FIRE-tool link](https://firetool.bioinformagic.tools/)
 
 ## Other tools under development
 - scRNA
